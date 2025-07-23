@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up | MohenedFood</title>
+    <link rel="stylesheet" href="../styles/normalize.css" />
+    <link rel="stylesheet" href="../styles/loginAndSignUp.css" />
+  </head>
+  <body>
+    <main>
+      <section class="authContainer">
+        <h2>Sign Up</h2>
+        <form class="signUp" id="signUp" method="post">
+          <label for="name">Name</label>
+          <input
+            type="text"
+            id="name"
+            required
+            placeholder="Enter your name"
+          />
+          <label for="email">Email</label>
+          <input
+            type="email"
+            id="email"
+            required
+            placeholder="Enter your email"
+          />
+          <label for="phoneNumber">Phone number</label>
+          <input
+            type="tel"
+            id="phoneNumber"
+            required
+            placeholder="Enter your phone number"
+            value="07"
+          />
+          <label for="password">Password</label>
+          <input
+            type="password"
+            id="password"
+            required
+            placeholder="Create a password"
+          />
+          <label for="passwordConfirm">Password confirm</label>
+          <input
+            type="password"
+            id="passwordConfirm"
+            required
+            placeholder="Confirm a password"
+          />
+          <button type="submit" class="authBtn">Sign Up</button>
+          <p class="authLink">
+            Already have an account? <a href="login.html">Login</a>
+          </p>
+          <p class="authLink">
+            <a href="../index.html" class="home-link">Back to Home</a>
+          </p>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>

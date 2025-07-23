@@ -1,0 +1,83 @@
+[
+  {
+    "image": {
+      "thumbnail": "../imgs/image-waffle-thumbnail.jpg",
+      "desktop": "./imgs/image-waffle-desktop.jpg"
+    },
+    "name": "Waffle with Berries",
+    "category": "Waffle",
+    "price": 6.49
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-creme-brulee-thumbnail.jpg",
+      "desktop": "./imgs/image-creme-brulee-desktop.jpg"
+    },
+    "name": "Vanilla Bean Crème Brûlée",
+    "category": "Creme Brulee",
+    "price": 6.99
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-macaron-thumbnail.jpg",
+      "desktop": "./imgs/image-macaron-desktop.jpg"
+    },
+    "name": "Macaron Mix of Five",
+    "category": "Macaron",
+    "price": 7.99
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-tiramisu-thumbnail.jpg",
+      "desktop": "./imgs/image-tiramisu-desktop.jpg"
+    },
+    "name": "Classic Tiramisu",
+    "category": "Tiramisu",
+    "price": 5.49
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-baklava-thumbnail.jpg",
+      "desktop": "./imgs/image-baklava-desktop.jpg"
+    },
+    "name": "Pistachio Baklava",
+    "category": "Baklava",
+    "price": 3.99
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-meringue-thumbnail.jpg",
+      "desktop": "./imgs/image-meringue-desktop.jpg"
+    },
+    "name": "Lemon Meringue Pie",
+    "category": "Pie",
+    "price": 4.99
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-cake-thumbnail.jpg",
+      "desktop": "./imgs/image-cake-desktop.jpg"
+    },
+    "name": "Red Velvet Cake",
+    "category": "Cake",
+    "price": 4.49
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-brownie-thumbnail.jpg",
+      "desktop": "./imgs/image-brownie-desktop.jpg"
+    },
+    "name": "Salted Caramel Brownie",
+    "category": "Brownie",
+    "price": 4.49
+  },
+  {
+    "image": {
+      "thumbnail": "../imgs/image-panna-cotta-thumbnail.jpg",
+      "desktop": "./imgs/image-panna-cotta-desktop.jpg"
+    },
+    "name": "Vanilla Panna Cotta",
+    "category": "Panna Cotta",
+    "price": 6.49
+  }
+]
