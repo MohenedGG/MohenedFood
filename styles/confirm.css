@@ -144,3 +144,29 @@ main {
   color: #fff;
   transform: translateY(-2px) scale(1.03);
 }
+@media (max-width: 600px) {
+  .confirmContainer {
+    max-width: 98%;
+    padding: 12px 6px;
+    border-radius: 10px;
+  }
+  .confirmForm {
+    gap: 10px;
+  }
+  .confirmRow {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .confirmRow > div {
+    width: 100%;
+  }
+  .confirmBtn {
+    font-size: 15px;
+    padding: 9px 0;
+    border-radius: 5px;
+  }
+  .confirmContainer h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+}
